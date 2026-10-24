@@ -1,2 +1,4 @@
 # git_test
-The Odin Project test repository
+The Odin Project test repository.
+
+Hello Odin!
